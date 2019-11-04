@@ -3,7 +3,7 @@
 //  PodcastPlatform
 //
 //  Created by Mixalis Dobekidis on 04/11/2019.
-//  Copyright © 2019 CarnevaleInteractive. All rights reserved.
+//  Copyright © 2019 7linternational. All rights reserved.
 //
 
 import Foundation
